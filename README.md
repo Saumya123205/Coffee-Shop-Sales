@@ -1,9 +1,8 @@
-# Coffee-Shop-Sales
 # 📊 Coffee Shop Sales Analysis Project
-  🔹 A Business Insights Project Using Microsoft Excel
+🔹 A Business Insights Project Using Microsoft Excel
 
 🔍 Project Overview
-This project involves analyzing transactional data from a coffee shop to extract key business insights using Microsoft Excel. The objective was to understand sales performance, customer buying behavior, and revenue trends to support better business decisions.
+🔹This project involves analyzing transactional data from a coffee shop to extract key business insights using Microsoft Excel. The objective was to understand sales performance, customer buying behavior, and revenue trends to support better business decisions.
 
 🛠 Tools Used
 📌 Microsoft Excel for:
